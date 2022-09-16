@@ -1,0 +1,20 @@
+NorthWindC/Category
+NorthWindC/Product
+NorthWindC/Supplier
+NorthWindC/Order
+NorthWindC/OrderDetails
+NorthWindC/Shipper
+NorthWindC/customer
+NorthWindC/Employee
+
+# Ignore Config files
+*.Config
+
+# Ignore suo files
+*.suo
+
+# Ignore csProj files
+*.csProj
+
+# Ignore solution files
+*.sln
